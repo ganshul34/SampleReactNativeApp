@@ -12,6 +12,8 @@ When you're ready to see everything that Expo provides (or if you want to use yo
 There are 2 screens in the app
 
 1. Home Screen
+    ![Home Screen](./assets/Home.jpg)
 2. User Registeration Screen
+  ![User Registeration screen](./assets/User.jpg)
 ```
 In the above link you can directly open the app or download the [expo app](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) and scan the generated QR code to open the app on the phone.
